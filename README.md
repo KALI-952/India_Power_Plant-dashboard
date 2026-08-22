@@ -2,8 +2,6 @@
 
 An interactive Power BI dashboard analyzing India's power generation landscape — combining a self-curated dataset of 250+ power plants (capacity, fuel type, geolocation, ownership) with 8 years of state-wise electricity demand data to explore how India's generation capacity is distributed and how it compares against actual consumption.
 
-🔗 Live Dashboard: [Add your Publish-to-Web link here]
-
 📸 Screenshots below | 📁 Data  | 📊 Power BI file in root (.pbix)
 
 🎯 Why I Built This
